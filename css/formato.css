@@ -1,0 +1,121 @@
+@charset "utf-8";
+
+body {
+    background-color: #a8e2da;
+    background-image: url(pngegg.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: rgb(0, 0, 0);
+}
+
+select option {
+    margin: 40px;
+    color: #fff;
+}
+select option[id="lineSelector"] {
+    color: black;
+    background: lightblue;
+    text-align: center;
+    
+}
+select option[id="selecione"] {
+    color: black;
+    background: lightblue;
+    text-align: center;
+    
+}
+select option[id="tres"] {
+    color: black;
+    background: lightblue;
+    text-align: center;
+}
+
+select option[id="quatro"] {
+    color: black;
+    background: lightblue;
+    text-align: center;
+}
+
+select option[id="cinco"] {
+    color: black;
+    background: lightblue;
+    text-align: center;
+}
+
+select option[id="seis"] {
+    color: black;
+    background: lightblue;
+    text-align: center;
+}
+
+select option[id="preto"] {
+    background: Black;
+}
+
+select option[id="marrom"] {
+    background: brown;
+}
+
+select option[id="vermelho"] {
+    background: red;
+}
+
+select option[id="laranja"] {
+    background: orange;
+}
+
+select option[id="amarelo"] {
+    color: black;
+    background: yellow;
+}
+
+select option[id="verde"] {
+    background: green;
+}
+
+select option[id="azul"] {
+    background: blue;
+}
+
+select option[id="roxo"] {
+    background: violet;
+}
+
+select option[id="cinza"] {
+    background: grey;
+    color: black;
+}
+
+select option[id="branco"] {
+    color: black;
+    background: white;
+}
+
+select option[id="dourado"] {
+    background: gold;
+    color: black;
+}
+
+select option[id="prata"] {
+    background: silver;
+    color: black;
+}
+
+select option[id="null"] {
+    background: white;
+    color: black;
+}
+
+select option[id="x"] {
+    background: white;
+    color: black;
+}
+
+select option[id="lineSelector"] {
+    
+}
